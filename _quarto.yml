@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Di Zhao"
+  site-url: https://Eddy-DZ.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/Eddy-DZ/Eddy-DZ.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [DZ.cn](https://Eddy-DZ.github.io)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -24,16 +24,16 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
+      # - text: "Books"
+      #   href: books.qmd
+      # - text: "Blogs"
+      #   href: blog.qmd
+      # - text: "Codes"
+      #   href: codes.qmd
+      # - text: "中文"
+      #   href: Chinese.qmd
+      # - text: "CV"
+      #   href: CV.pdf
 
 format:
   html:

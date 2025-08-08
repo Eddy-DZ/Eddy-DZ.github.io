@@ -1,6 +1,6 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Di Zhao"
+image: images/photo-dizhao-google.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,55 +8,78 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
-    - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
+      text: dizhao@nju.edu.cn
+      href: mailto:dizhao@nju.edu.cn
+    # - icon: github
+    #   text: arlionn
+    #   href: https://github.com/lianyujun
     - icon: book
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      href: https://scholar.google.com/citations?user=PHMJIw4AAAAJ&hl=en
     - icon: fingerprint
-      text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    - icon: solid user
-      text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Di-Zhao-21?ev=prf_overview
+    # - icon: fingerprint
+    #   text: ORCID
+    #   href: https://orcid.org/0000-0002-2011-7535
+    # - icon: brands zhihu
+    #   text: 知乎
+    #   href: https://www.zhihu.com/people/arlionn/
+    # - icon: brands weibo
+    #   text: 微博
+    #   href: https://weibo.com/arlionn
+    # - icon: brands xing
+    #   text: 小红书
+    #   href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+    # - icon: solid user
+    #   text: 工作主页
+    #   href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+    # - icon: brands home
+    #   text: 连享会
+    #   href: https://www.lianxh.cn
+    # - icon: 📝
+    #   text: CV
+    #   href: CV.pdf  
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+## 个人简介
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+赵迪，男，准聘副教授/特聘研究员，博士生导师。2014年毕业于华中科技大学-信息类数理提高班，获工学学士学位（校优秀毕业生）；2019年毕业于香港科技大学-电子级计算机工程系，获哲学博士学位。现为南京大学机器人与自动化学院准聘副教授。研究方向为：鲁棒控制、安全控制、多模态学习、图像处理等。成果见诸 *IEEE Transactions on Automatica Control*, *Automatica*, *SIAM Journal on Control and Optimization*等期刊。主持国家自然科学基金、国家重点研发计划子课题、教育部中国高校产学研创新基金、同济大学自主原创基础研究项目等科研项目。主要讲授《信号与系统》等课程。拟招收控制理论和人工智能方向的硕士/博士研究生（具体报考建议见下文）。
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
+- 邮箱：dizhao@nju.edu.cn
+- 办公：南京大学苏州东校区南雍楼西210 
 
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+## 教育和工作背景
 
+- 2025.06-今 南京大学 机器人与自动化学院 准聘副教授
+- 2024.01-2025.05 同济大学 控制科学与工程系 预聘副教授
+- 2020.12-2023.12 同济大学 控制科学与工程系 助理教授
+- 2020.04-2020.12 香港科技大学深圳研究院 网络物理系统实验室 科研主管
+- 2019.10-2019.12 香港科技大学 电子级计算机工程系 博士后
+- 2014.09-2019.11 香港科技大学 电子级计算机工程系 博士(哲学博士)
+- 2010.09-2014.07 华中科技大学 信息类数理提高班 本科(工学学士)
 
-## Background
+## 主讲课程
+- 信号与系统
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+## 研究兴趣
 
+- 控制理论（鲁棒控制、安全控制）
+- 人工智能 (面向医学的图像处理和多模态学习)
+
+## 欢迎报考
+
+每年指导名额：本科生 (大创/毕设/科研，1-2 名)；硕士生 (学硕/专硕，1-2名)；博士生 (直博/普博，1-2名)。
+
+- 本科生。正在为保研或者出国深造做准备，可以在大二申请进入我们的研究团队，读文献、写代码，用 1-2 年的时间打基础，培养你的学术研究兴趣，并完成学术论文。
+- 硕士生。建议从事人工智能方向的研究，参与面向医学的图像处理和多模态学习相关课题。此课题为联合课题，与中山医院、复旦大学等顶尖机构共同开展研究。过程中需要学习并掌握面向专病诊断、治疗的数据分析、图像处理、机器学习等技术，协同联合团队实现相关技术并完成高质量期刊论文撰写。
+- 博士生。博士生可选择人工智能或控制理论方向。
+  - 若选择人工智能方向，相关任务与硕士生类似，需要申请人具有良好的编程基础和人工智能相关知识，对探索新方法和新技术具有浓厚的兴趣，将长期投入到人工智能算法研究和部署并争取发表高质量期刊（人工智能领域、医学领域或综合类）。
+  - 若选择控制理论方向，需要申请人具有较强的数理基础并对解决理论问题有浓厚兴趣，对线性/高等代数、矩阵分析、数学分析、复分析、算子理论等课程知识掌握良好或具有学习兴趣，将与我共同解决控制理论相关问题并争取发表领域内顶刊。
+
+如果你不确定想要做什么，欢迎来找我交流。
+
+一点理解：学术是一条很长的路，有很多风景也有很多坎坷，还会有很多志同道合的朋友；如果你有探索未知的勇气和沉稳坚韧的性格，那么你可以试着走这条路。
 :::
