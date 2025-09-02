@@ -17,7 +17,7 @@ editor: visual
 
 1.  Chao Chen, **Di Zhao\***, and Sei Zhen Khong, “The singular angle of nonlinear systems,” *Automatica* (**Regular paper**), 2025, To appear.
 2.  Lanlan Su, **Di Zhao\***, and Sei Zhen Khong, “On the exponential convergence of input-output signals of nonlinear feedback systems,” *IEEE Transactions on Automatic Control*, 2025, online.
-3.   Weihao Zhang, **Di Zhao\***, and Shu Liang, “Soft safety analysis of interconnected systems,” *IEEE Transactions on Automatic Control* (**Regular paper**), 2025, 70(7): 4315-4329.
+3.  Weihao Zhang, **Di Zhao\***, and Shu Liang, “Soft safety analysis of interconnected systems,” *IEEE Transactions on Automatic Control* (**Regular paper**), 2025, 70(7): 4315-4329.
 4.  Jianqi Chen, Qi Mao\*, **Di Zhao**, Chao Chen, “Robust stability and stabilizability conditions for time-delay systems under stochastic uncertainties,” *IEEE Transactions on Automatic Control*, 2025, 70(6): 4037-4044.
 5.  Jiajin Liang, **Di Zhao**\*, Li Qiu, “Feedback stability under mixed gain and phase uncertainty,” *IEEE Transactions on Automatic Control* (**Regular paper**), 2024, 1-16.
 6.  Sei Zhen Khong**, Di Zhao**\*, Alexander Lanzon, “Converse negative imaginary theorems,” *Automatica*, 2024, 165: 111682.
@@ -42,9 +42,9 @@ editor: visual
 
 4.  **Di Zhao**, Wei Chen, Li Qiu, “When small gain meets small phase,” 41st Chinese Control Conference (CCC), online, China, 2022.
 
-5.   Chao Chen, **Di Zhao**, W. Chen, Li Qiu, “A nonlinear small-phase theorem,” 21st IFAC World Congress, Berlin, Germany, 2020.
+5.  Chao Chen, **Di Zhao**, W. Chen, Li Qiu, “A nonlinear small-phase theorem,” 21st IFAC World Congress, Berlin, Germany, 2020.
 
-6.   **Di Zhao**, Sei Zhen Khong, Li Qiu “Stabilization of two-port NCSs with simultaneous uncertainties,” 40th Chinese Control Conference (CCC), Shanghai, China, 2021.
+6.  **Di Zhao**, Sei Zhen Khong, Li Qiu “Stabilization of two-port NCSs with simultaneous uncertainties,” 40th Chinese Control Conference (CCC), Shanghai, China, 2021.
 
 7.  **Di Zhao**, Sei Zhen Khong, Li Qiu, “Stabilization of cascaded two-port networked systems against nonlinear perturbations,” IEEE 56th Annual Conference on Decision and Control (CDC), Melbourne, Australia, 2017, pp. 1042-1045, 2017.
 
@@ -76,16 +76,18 @@ editor: visual
 
 ## 科研项目
 
-1.  国家自然科学基金青年科学基金，基于相位秩优化的无人自主系统模型降阶方法研究，2022-01-01 至2024-12-31，30万元，主持。
+1.  国家自然科学基金，面上项目，相位不确定性下复杂系统的鲁棒安全控制理论与方法，2026-01-01 至2029-12-31，50万元，主持。
 
-2.  国家重点研发计划子课题，高动态约束下快速最优决策，2022-12-01至2027-11-30，70万元，主持。
+2.  国家自然科学基金，青年科学基金，基于相位秩优化的无人自主系统模型降阶方法研究，2022-01-01 至2024-12-31，30万元，主持。
 
-3.  教育部中国高校产学研创新基金，火场等极端环境下的多自主体安全协同理论与方法，2023-09-01 至 2024-08-31 2万元，主持。
+3.  国家重点研发计划子课题，高动态约束下快速最优决策，2022-12-01至2027-11-30，70万元，主持。
 
-4.  同济大学自主原创基础研究项目，基于相位控制的网络鲁棒安全性理论，2024-04-01至2026-03-31，12万元 ，主持。
+4.  教育部中国高校产学研创新基金，火场等极端环境下的多自主体安全协同理论与方法，2023-09-01 至 2024-08-31 2万元，主持。
 
-5.  国家自然科学基金面上项目，智能无人集群系统在线反馈的安全决策控制一体化设计与分析，2024-01-01 至2027-12-31，50万元，参与。
+5.  同济大学自主原创基础研究项目，基于相位控制的网络鲁棒安全性理论，2024-04-01至2026-03-31，12万元 ，主持。
 
-6.  国家自然科学基金面上项目，基于联邦学习机制的半导体智能制造系统异构分布式调度优化，2022-01-01 至2025-12-31，57万元 ，参与。
+6.  国家自然科学基金面上项目，智能无人集群系统在线反馈的安全决策控制一体化设计与分析，2024-01-01 至2027-12-31，50万元，参与。
 
-7.  深港澳科技计划 （C类），复杂系统相位理论应用于多动子物料传输系统的协同控制，2021-07-30 至 2023-07-30，100万元，参与。
+7.  国家自然科学基金面上项目，基于联邦学习机制的半导体智能制造系统异构分布式调度优化，2022-01-01 至2025-12-31，57万元 ，参与。
+
+8.  深港澳科技计划 （C类），复杂系统相位理论应用于多动子物料传输系统的协同控制，2021-07-30 至 2023-07-30，100万元，参与。
