@@ -67,8 +67,11 @@ editor: visual
 
 1.  Sei Zhen Khong**, Di Zhao**\*, Alexander Lanzon, “Extended strictly negative imaginary systems and associated robust feedback stability,” *Automatica*, under review.
 2.  Haoxiang Yang, **Di Zhao**\*, Jun Shang, “Safety verification for linear time-varying systems under ellipsoidal constraints,” *IEEE Transactions on Automatic Control*, under review.
-3.  Weihao Zhang, Chao Chen, Jianqi Chen, **Di Zhao**\*, “Angular safety analysis of interconnected systems,” in preparation.
-4.  **Di Zhao**, Chao Chen, Jianqi Chen\*, “Feedback stability of linear time-varying stochastic systems: A passivity approach,” in preparation.
+3.  Weihao Zhang, Chao Chen, Jianqi Chen, **Di Zhao**\*, “Angular safety analysis of interconnected systems,” under review.
+4.  **Di Zhao**, Chao Chen\*, Kin Cheong Sou, Sei Zhen Khong, "Characterization and Reduction of Network Asymmetry: A Phase-Rank Perspective," *IEEE Transactions on Automatic Control*, under review.
+5.  **Di Zhao**, Chao Chen, Jianqi Chen\*, “Feedback stability of linear time-varying stochastic systems: A passivity approach,” in preparation.
+6.  Haoxiang Yang, Chao Chen, Jun Shang, **Di Zhao**\*, "Optimal Control for Safety-Critical LTV Systems Under Ellipsoidal Uncertainty," in preparation.
+7.  Weihao Zhang, **Di Zhao**, Xinlei Yi, Jun Shang, "Safety Verification of Recurrent Neural Networks: An Input-output Approach," in preparation.
 
 ## 科研项目
 

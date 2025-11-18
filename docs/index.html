@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,13 +33,14 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/logo_gpt1.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2575636bf12bba71c1c5b79222bd7450.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2655609e4c4ce2e7dd4199da68fd4791.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b4247bbc1ab2b6ffa8ef27fbd47d6169.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9970e5842390057a12faea0c4072537d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -143,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><div id="hero-heading">
 <section id="个人简介" class="level2">
 <h2 data-anchor-id="个人简介">个人简介</h2>
-<p>赵迪，男，准聘副教授/特聘研究员，博士生导师。2014年毕业于华中科技大学-信息类数理提高班，获工学学士学位（校优秀毕业生）；2019年毕业于香港科技大学-电子及计算机工程系，获哲学博士学位。现为南京大学机器人与自动化学院准聘副教授。研究方向为：鲁棒控制、安全控制、多模态学习、图像处理等。成果见诸 <em>IEEE Transactions on Automatica Control</em>, <em>Automatica</em>, <em>SIAM Journal on Control and Optimization</em>等期刊。主持国家自然科学基金、国家重点研发计划子课题、教育部中国高校产学研创新基金、同济大学自主原创基础研究项目等科研项目。主要讲授《信号与系统》等课程。拟招收控制理论和人工智能方向的硕士/博士研究生（具体报考建议见下文）。</p>
+<p>赵迪，男，准聘副教授/特聘研究员，博士生导师。2014年毕业于华中科技大学-信息类数理提高班，获工学学士学位（校优秀毕业生）；2019年毕业于香港科技大学-电子及计算机工程系，获哲学博士学位。现为南京大学机器人与自动化学院准聘副教授。研究方向为：鲁棒控制、安全控制、多模态学习、图像处理等。成果见诸 <em>IEEE Transactions on Automatica Control</em>, <em>Automatica</em>, <em>SIAM Journal on Control and Optimization</em>等期刊。主持国家自然科学基金（青年、面上）、国家重点研发计划子课题、教育部中国高校产学研创新基金、自主智能无人系统全国重点实验室开放课题、同济大学自主原创基础研究项目等科研项目。主要讲授《信号与系统》等课程。拟招收控制理论和人工智能方向的硕士/博士研究生（具体报考建议见下文）。</p>
 <ul>
 <li>邮箱：dizhao@nju.edu.cn</li>
 <li>办公：南京大学苏州东校区南雍楼西220</li>
@@ -241,13 +242,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
